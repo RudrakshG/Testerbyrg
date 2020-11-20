@@ -1287,7 +1287,7 @@ function preload(){
 }
 
 function setup(){
-  recopy1=createSprite(windowWidth/8 + 30, windowHeight/8);
+  recopy1=createSprite(windowWidth/2.4 + 30, windowHeight/2.3);
   recopy1.addImage("copy", recopy);
 }
 function draw(){
